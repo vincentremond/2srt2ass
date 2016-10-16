@@ -125,7 +125,7 @@ p { padding: 0; margin: 20px 30px; }
 				<h3>Author</h3>
 				<p>2srt2ass developped by Vincent Rémond.</p>
 				<p>Feedback or bugs at <a href="mailto:vincent.remond@gmail.com?subject=Feedback%202SRT2ASS">vincent.remond@gmail.com</a>.</p>
-				<p>Program under GNU/GPL. <a href="sources/">Sources here</a></p>
+				<p>Program under GNU/GPL. <a href="https://github.com/vincentremond/2srt2ass/">Sources here</a></p>
 				<h3>Changelog</h3>
 				<ul>
 					<li><b>0.2.0</b> &ndash;  2016-09-27<br />- Added force subtitles to bottom</li>
