@@ -55,6 +55,7 @@ p { padding: 0; margin: 20px 30px; }
 				<p><?= $error ?></p>
 			</div>
 <?php endif; ?>
+			<h3>Merge two .srt files, to one .ass file</h3>
 			<div class="main-form">
 				<form action="." method="post" enctype="multipart/form-data" name="form">
 					<input type="hidden" name="send" value="yes">
