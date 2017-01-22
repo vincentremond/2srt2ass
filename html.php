@@ -130,6 +130,7 @@ p { padding: 0; margin: 20px 30px; }
 				<p>Program under GNU/GPL. <a href="https://github.com/vincentremond/2srt2ass/">Sources here</a></p>
 				<h3>Changelog</h3>
 				<ul>
+					<li><b>0.2.1</b> &ndash;  2017-01-22<br />- Added Helvetica &amp; minor change</li>
 					<li><b>0.2.0</b> &ndash;  2016-09-27<br />- Added force subtitles to bottom</li>
 					<li><b>0.1.1</b> &ndash;  2015-06-20<br />- Remove leading 0 in timestamps</li>
 					<li><b>0.1.0</b> &ndash;  2013-04-07<br />- Improved UI<br />- Customizable font output</li>
