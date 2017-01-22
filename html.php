@@ -94,6 +94,7 @@ p { padding: 0; margin: 20px 30px; }
 							<select id="fontname" name="fontname">
 								<option value="Arial"></option>
 								<option value="Comic Sans MS"></option>
+								<option value="Helvetica"></option>
 								<option value="Verdana"></option>
 							</select>
 						</span>
