@@ -130,7 +130,7 @@ function getTimeStamp($str) {
 
 function parseAndAddSRT($text,&$tree,$type)
 {
-	$eregEvent = '/\d+\n(\d\d:\d\d:\d\d),(\d\d)\d --> (\d\d:\d\d:\d\d),(\d\d)\d\n(.+?(\n.+?)*)\n\n/';
+	$eregEvent = '/\d+\n(\d\d:\d\d:\d\d)[\.,](\d\d)\d --> (\d\d:\d\d:\d\d)[\.,](\d\d)\d\n(.+?(\n.+?)*)\n\n/';
 	preg_match_all($eregEvent, $text, $matches);
 
 	if(count($matches[0]) === 0)

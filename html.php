@@ -36,6 +36,9 @@ p { padding: 0; margin: 20px 30px; }
 .error h2 { margin: 0; }
 .error p { font-weight: bold; margin: 10px 15px; color: #451C1C; }
 
+.donate { border: 1px solid grey; padding: 3px 12px; background-color: #EEEEEE; display: inline-block; border-radius: 15px; }
+.donate a { color: red; text-decoration: none; }
+
 .main-form { padding: 0 0 0 30px; }
 .main-form form { }
 .main-form form .form-row { clear: both; margin: 0 0 7px 0; }
@@ -128,6 +131,7 @@ p { padding: 0; margin: 20px 30px; }
 				<p>2srt2ass developped by Vincent Rémond.</p>
 				<p>Feedback or bugs at <a href="mailto:vincent.remond@gmail.com?subject=Feedback%202SRT2ASS">vincent.remond@gmail.com</a>.</p>
 				<p>Program under GNU/GPL. <a href="https://github.com/vincentremond/2srt2ass/">Sources here</a></p>
+				<p class="donate"><a href="http://www.actionagainsthunger.org/take-action/donate">DONATE</a></p>
 				<h3>Changelog</h3>
 				<ul>
 					<li><b>0.2.1</b> &ndash;  2017-01-22<br />- Added Helvetica &amp; minor change</li>
