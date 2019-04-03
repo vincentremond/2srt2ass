@@ -128,7 +128,7 @@ p { padding: 0; margin: 20px 30px; }
 				<p>Upload 2 srt files, the script will send you a SSA/ASS subtitle files. This file will have on top the fisrt file's subtitles and on bottom those of the second file.</p>
 				<p>If you have any problem, make sure both your files are <a href="http://en.wikipedia.org/wiki/SubRip#SubRip_.srt_file_example">formatted in SubRip (srt)</a> and are using the same encoding (like UTF-8).</p>
 				<h3>Author</h3>
-				<p>2srt2ass developped by Vincent Rémond.</p>
+				<p>2srt2ass developed by Vincent Rémond.</p>
 				<p>Feedback or bugs at <a href="mailto:vincent.remond@gmail.com?subject=Feedback%202SRT2ASS">vincent.remond@gmail.com</a>.</p>
 				<p>Program under GNU/GPL. <a href="https://github.com/vincentremond/2srt2ass/">Sources here</a></p>
 				<p class="donate"><a href="http://www.actionagainsthunger.org/take-action/donate">DONATE</a></p>
@@ -144,6 +144,13 @@ p { padding: 0; margin: 20px 30px; }
 				</ul>
 			</div>
 		</div>
-<?php include($_SERVER["DOCUMENT_ROOT"] . '/include/google-analytics.php'); ?>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1934795-1");
+pageTracker._trackPageview();
+</script>
 	</body>
 </html>
